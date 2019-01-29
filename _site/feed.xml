@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-29T13:33:19-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Data Reporting Analyst</title><subtitle>Data feeds - News - Tools - Tech - Finance &amp; Economics.</subtitle><entry><title type="html">Data &amp;amp; Tools</title><link href="http://localhost:4000/jekyll/update/2019/01/29/DataSource.html" rel="alternate" type="text/html" title="Data &amp; Tools" /><published>2019-01-29T04:47:31-08:00</published><updated>2019-01-29T04:47:31-08:00</updated><id>http://localhost:4000/jekyll/update/2019/01/29/DataSource</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/29/DataSource.html">&lt;iframe style=&quot;border: 1px solid #333333; overflow: hidden; width: 190px; height: 245px;&quot; src=&quot;//research.stlouisfed.org/fred-glance-widget.php&quot; height=&quot;250&quot; width=&quot;320&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;col-xs-12&quot; id=&quot;fred-homepage-bluebox&quot; style=&quot;padding-left: 0; padding-right: 0;&quot;&gt;
+    &lt;div class=&quot;col-xs-12&quot; style=&quot;padding-left: 0; padding-right: 0;&quot;&gt;
+        &lt;div class=&quot;col-xs-12 col-sm-4 col-sm-push-8 text-right&quot; style=&quot;padding-right: 1em;&quot;&gt;&lt;/div&gt;
+
+        &lt;div class=&quot;col-xs-12&quot; style=&quot;padding-left: 0; padding-right: 0;&quot;&gt;
+            &lt;div id=&quot;fred-homepage-description&quot; class=&quot;hidden-xs col-sm-12 text-center&quot;&gt;
+              &lt;a href=&quot;https://fred.stlouisfed.org/tags/series&quot;&gt;&lt;strong&gt;528,000&lt;/strong&gt; US and international time series&lt;/a&gt; from &lt;a href=&quot;https://fred.stlouisfed.org/sources&quot;&gt;&lt;strong&gt;87&lt;/strong&gt; sources&lt;/a&gt;.
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+&lt;div class=&quot;col-xs-12 col-sm-10 col-sm-offset-1&quot;&gt;
+      &lt;form class=&quot;form-horizontal&quot; style=&quot;margin-top:1em;margin-bottom:1em;&quot; action=&quot;/search&quot;&gt;
+          &lt;div class=&quot;input-group input-group-lg&quot;&gt;
+            &lt;input name=&quot;st&quot; type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;Search FRED data e.g., gdp, inflation, unemployment&quot; /&gt;
+              &lt;a class=&quot;input-group-btn&quot;&gt;
+                    &lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot; style=&quot;background-color:#687f9f;color:white&quot;&gt;
+                      &lt;i class=&quot;Search&quot;&gt;
+                        &lt;div class=&quot;input-group-lg&quot; href=&quot;https://fred.stlouisfed.org/search?st=&quot;&gt;Search
+                        &lt;/div&gt;
+                      &lt;/i&gt;
+                    &lt;/button&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/form&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;input-group-btn&quot; href=&quot;https://fred.stlouisfed.org/search=&quot;&gt;Search
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;error-container&quot;&gt;
+&lt;h1&gt;Looking for Something?&lt;/h1&gt;
+&lt;p class=&quot;large&quot;&gt;We're sorry, the page you were looking for cannot be found. Please feel free
+    to &lt;a href=&quot;https://research.stlouisfed.org/contactus/&quot;&gt;contact us&lt;/a&gt; if the problem persists.&lt;/p&gt;
+&lt;p class=&quot;large&quot;&gt;Searching may help find what are you looking for. If all else fails, you can head &lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+&lt;form action=&quot;/search&quot; id=&quot;search-form-404&quot;&gt;
+    &lt;label for=&quot;search-text&quot;&gt;Search for:&lt;/label&gt;&lt;br /&gt;
+    &lt;input type=&quot;text&quot; name=&quot;st&quot; id=&quot;search-text&quot; size=&quot;50&quot; class=&quot;form-control&quot; /&gt; &lt;input type=&quot;submit&quot; class=&quot;btn btn-default&quot; value=&quot;Search&quot; id=&quot;404-search-button&quot; name=&quot;404-search-button&quot; /&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+
+&lt;h1 class=&quot;section-front-header-module__title&quot;&gt;Supply Chain&lt;/h1&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Under Construction
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 class=&quot;section-front-header-module__title&quot;&gt;Other&lt;/h1&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Under Construction
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Financial News</title><link href="http://localhost:4000/jekyll/update/2019/01/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Financial News" /><published>2019-01-26T04:47:31-08:00</published><updated>2019-01-26T04:47:31-08:00</updated><id>http://localhost:4000/jekyll/update/2019/01/26/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/26/welcome-to-jekyll.html">&lt;div class=&quot;navi-markets-bar&quot;&gt;
+	&lt;h1 class=&quot;section-front-header-module__title&quot;&gt;Quick Links&lt;/h1&gt;
+
+            &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/commodities&quot;&gt;Commodities &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/stocks&quot;&gt;Stocks &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/rates-bonds&quot;&gt;Rates &amp;amp; Bonds &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/currencies&quot;&gt;Currencies &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/stocks/futures&quot;&gt;Futures &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/economics&quot;&gt;Economics &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/fixed-income&quot;&gt;Fixed Income &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/etfs&quot;&gt;ETFs &lt;/a&gt; I &lt;a class=&quot;navi-quick-links__link&quot; href=&quot;/markets/sectors&quot;&gt;Sectors &lt;/a&gt;
+
+    &lt;div class=&quot;navi-data-strip&quot;&gt;
+        &lt;button class=&quot;navi-data-strip__play-pause-button is-playing&quot; value=&quot;Play/Pause Toggle&quot; alt=&quot;Play/Pause Toggle&quot; aria-describedby=&quot;play-pause-button-description&quot;&gt;&lt;/button&gt;
+        &lt;span id=&quot;play-pause-button-description&quot; style=&quot;display:none;&quot;&gt;Press this button to toggle pause/play states.&lt;/span&gt;
+        &lt;div class=&quot;navi-data-strip__ticker-viewport&quot;&gt;
+			&lt;div class=&quot;navi-data-strip__ticker-viewport-inner&quot;&gt;
+				&lt;ul class=&quot;navi-data-strip__tickers-list-first&quot;&gt;&lt;/ul&gt;
+                &lt;ul class=&quot;navi-data-strip__tickers-list-second&quot;&gt;&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 class=&quot;section-front-header-module__title&quot;&gt;Markets&lt;/h1&gt;
+
+&lt;div class=&quot;thirdparty-embed&quot;&gt;
+                &lt;div class=&quot;thirdparty-embed__container&quot;&gt;
+                    &lt;iframe src=&quot;https://www.bloomberg.com/markets/components/data-drawer?linksType=tout&amp;amp;showTabs=true&quot; allowfullscreen=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;100&quot; data-embed-id=&quot;https://www.bloomberg.com/markets/components/data-drawer?linksType=tout&amp;amp;showTabs=true&quot;&gt;
+										&lt;/iframe&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+&lt;section class=&quot;embed-module&quot; id=&quot;sector_performance&quot; data-variation=&quot;&quot;&gt;
+
+            &lt;div class=&quot;thirdparty-embed&quot;&gt;
+                &lt;div class=&quot;thirdparty-embed__container&quot;&gt;
+                    &lt;iframe src=&quot;https://www.bloomberg.com/markets/components/sectors&quot; allowfullscreen=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;100%&quot; height=&quot;250&quot; data-embed-id=&quot;https://www.bloomberg.com/markets/components/sectors&quot;&gt;
+                    &lt;/iframe&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+
+        &lt;/section&gt;
+
+&lt;section class=&quot;story-package-module&quot; id=&quot;story_package&quot; data-theme=&quot;&quot; data-variation=&quot;4_up_heds_only&quot;&gt;
+
+
+            &lt;div class=&quot;story-package-module__stories&quot;&gt;
+
+
+        &lt;article class=&quot;story-package-module__story&quot; data-id=&quot;PM1OZ66JIJUW01&quot; data-type=&quot;article&quot; data-updated-at=&quot;2019-01-28T15:28:51.706Z&quot;&gt;
+
+&lt;h2 class=&quot;section-front-header-module__title&quot;&gt;Daily News&lt;/h2&gt;
+
+			  &lt;section class=&quot;story-package-module__story__eyebrow&quot;&gt;
+            economics
+        &lt;/section&gt;
+		&lt;h1 class=&quot;story-package-module__story__headline&quot;&gt;
+            &lt;a href=&quot;/news/articles/2019-01-28/draghi-blames-trade-global-uncertainties-for-euro-area-s-woes?srnd=economics-vp&quot; class=&quot;story-package-module__story__headline-link&quot; onclick=&quot;&quot;&gt;
+                Draghi Doesn't See Need for More Stimulus to Combat Growth Woes
+            &lt;/a&gt;
+        &lt;/h1&gt;
+
+        &lt;time class=&quot;hub-timestamp&quot; itemprop=&quot;dateModified&quot; datetime=&quot;2019-01-28T15:28:51.706Z&quot; data-locale=&quot;en&quot; data-status=&quot;&quot;&gt;
+
+        &lt;script class=&quot;hub-timestamp__format&quot; type=&quot;application/json&quot;&gt;
+            {&quot;year&quot;:&quot;numeric&quot;,&quot;month&quot;:&quot;long&quot;,&quot;day&quot;:&quot;numeric&quot;,&quot;hour&quot;:&quot;numeric&quot;,&quot;minute&quot;:&quot;numeric&quot;,&quot;timeZoneName&quot;:&quot;short&quot;}
+        &lt;/script&gt;
+        &lt;noscript&gt;January 28, 2019, 10:28 AM EST&lt;/noscript&gt;
+
+        &lt;/time&gt;
+
+        &lt;/article&gt;
+
+        &lt;article class=&quot;story-package-module__story&quot; data-id=&quot;PM1SAI6S972A01&quot; data-type=&quot;article&quot; data-updated-at=&quot;2019-01-28T15:27:54.966Z&quot;&gt;
+
+        &lt;section class=&quot;story-package-module__story__eyebrow&quot;&gt;
+            &lt;a href=&quot;/markets&quot; class=&quot;story-package-module__story__eyebrow-link&quot;&gt;
+                Markets
+            &lt;/a&gt;
+        &lt;/section&gt;
+		&lt;h1 class=&quot;story-package-module__story__headline&quot;&gt;
+            &lt;a href=&quot;/news/articles/2019-01-28/zimbabwe-central-bank-to-allow-dollar-trading-from-feb-1?srnd=economics-vp&quot; class=&quot;story-package-module__story__headline-link&quot; onclick=&quot;&quot;&gt;
+                Zimbabwe Central Bank to Allow Dollar Trading From Feb. 1
+            &lt;/a&gt;
+        &lt;/h1&gt;
+
+        &lt;time class=&quot;hub-timestamp&quot; itemprop=&quot;dateModified&quot; datetime=&quot;2019-01-28T15:27:54.966Z&quot; data-locale=&quot;en&quot; data-status=&quot;&quot;&gt;
+
+        &lt;script class=&quot;hub-timestamp__format&quot; type=&quot;application/json&quot;&gt;
+            {&quot;year&quot;:&quot;numeric&quot;,&quot;month&quot;:&quot;long&quot;,&quot;day&quot;:&quot;numeric&quot;,&quot;hour&quot;:&quot;numeric&quot;,&quot;minute&quot;:&quot;numeric&quot;,&quot;timeZoneName&quot;:&quot;short&quot;}
+        &lt;/script&gt;
+        &lt;noscript&gt;January 28, 2019, 10:27 AM EST&lt;/noscript&gt;
+
+        &lt;/time&gt;
+
+        &lt;/article&gt;
+
+        &lt;article class=&quot;story-package-module__story&quot; data-id=&quot;PM1EJT6JTSE801&quot; data-type=&quot;article&quot; data-updated-at=&quot;2019-01-28T15:00:33.686Z&quot;&gt;
+
+        &lt;section class=&quot;story-package-module__story__eyebrow&quot;&gt;
+            &lt;a href=&quot;/markets&quot; class=&quot;story-package-module__story__eyebrow-link&quot;&gt;
+                Markets
+            &lt;/a&gt;
+        &lt;/section&gt;
+    &lt;h1 class=&quot;story-package-module__story__headline&quot;&gt;
+            &lt;a href=&quot;/news/articles/2019-01-28/greece-prepares-to-offer-bond-joining-periphery-euro-area-rush?srnd=economics-vp&quot; class=&quot;story-package-module__story__headline-link&quot; onclick=&quot;&quot;&gt;
+                Sovereign Trio May Offer Wide Risk Range to Euro Bond Investors
+            &lt;/a&gt;
+        &lt;/h1&gt;
+
+        &lt;time class=&quot;hub-timestamp&quot; itemprop=&quot;dateModified&quot; datetime=&quot;2019-01-28T15:00:33.686Z&quot; data-locale=&quot;en&quot; data-status=&quot;&quot;&gt;
+
+        &lt;script class=&quot;hub-timestamp__format&quot; type=&quot;application/json&quot;&gt;
+            {&quot;year&quot;:&quot;numeric&quot;,&quot;month&quot;:&quot;long&quot;,&quot;day&quot;:&quot;numeric&quot;,&quot;hour&quot;:&quot;numeric&quot;,&quot;minute&quot;:&quot;numeric&quot;,&quot;timeZoneName&quot;:&quot;short&quot;}
+        &lt;/script&gt;
+        &lt;noscript&gt;January 28, 2019, 10:00 AM EST&lt;/noscript&gt;
+
+        &lt;/time&gt;
+
+        &lt;/article&gt;
+
+
+
+
+
+
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+&lt;/div&gt;&lt;/section&gt;</content><author><name></name></author><summary type="html">Quick Links [jekyll-docs]: https://jekyllrb.com/docs/home [jekyll-gh]: https://github.com/jekyll/jekyll [jekyll-talk]: https://talk.jekyllrb.com/</summary></entry></feed>
