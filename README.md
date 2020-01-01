@@ -7,7 +7,6 @@ All suggestions to improve the page or available tools are welcome.
 
 Enjoy the free tools!
 
-# Success!
 
 # Links
 
